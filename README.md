@@ -13,3 +13,4 @@ processing of posts removes a lot of meaningful semantic information, such as em
 posts that could be potentially useful for personality prediction. Continuing on this idea, we want to test whether emojis can be important indicators of 
 personality.
 
+Cui, Brandon, and Calvin Qi. "Survey analysis of machine learning methods for natural language processing for MBTI Personality Type Prediction." (2017).
